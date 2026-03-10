@@ -83,6 +83,6 @@
         lucide.createIcons();
     </script>
     
-    @livewireScripts
+    {{-- @livewireScripts --}}
 </body>
 </html>
